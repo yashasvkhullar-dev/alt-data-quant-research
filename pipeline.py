@@ -2,7 +2,7 @@
 """
 pipeline.py — End-to-end Alternative Data Trading Research Pipeline
 =======================================================================
-Author  : Yashasv Khullar et al.
+Author  : Yashasv Khullar et
 Project : Alternative Data in Quantitative Trading (CA3 — AISEE)
 Model   : FinBERT Sentiment → Stock Return Prediction
 
