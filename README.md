@@ -2,7 +2,7 @@
 
 > **NLP Sentiment Signal → Stock Return Prediction**  
 > Ethical AI Case Study · CO3 · CO4 · CO5  
-> B.Tech AI/ML · SIT Pune · 2024–25
+> B.Tech AI/ML · SIT Pune · 2025-26
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB)](https://python.org)
 [![Colab](https://img.shields.io/badge/Run%20in-Google%20Colab-F9AB00)](https://colab.research.google.com)
